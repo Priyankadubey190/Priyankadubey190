@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Dubey</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priyankadubey190&label=Profile%20views&color=0e75b6&style=flat" alt="priyankadubey190" /> </p>
+<p align="left"> <img src="https://avatars.githubusercontent.com/u/57099864?v=4" alt="priyankadubey190" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
