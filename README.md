@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Priyanka Dubey</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://avatars.githubusercontent.com/u/57099864?v=4" alt="priyankadubey190" /> </p>
+<p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C4E16AQEQ0Ozm49ndBA/profile-displaybackgroundimage-shrink_350_1400/0/1644861638652?e=1653523200&v=beta&t=bUf3IsZgKhSqZGqitpykbjvuGzKS0nuKqUv3p0mKH4Y" alt="priyankadubey190" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
